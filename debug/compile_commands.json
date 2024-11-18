@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/bartek/devel/clang-uml-issues/337/test/debug",
+  "command": "/usr/bin/clang++   -std=gnu++20 -o CMakeFiles/seq_diagram.dir/src/Main.cpp.o -c /home/bartek/devel/clang-uml-issues/337/test/src/Main.cpp",
+  "file": "/home/bartek/devel/clang-uml-issues/337/test/src/Main.cpp",
+  "output": "CMakeFiles/seq_diagram.dir/src/Main.cpp.o"
+},
+{
+  "directory": "/home/bartek/devel/clang-uml-issues/337/test/debug",
+  "command": "/usr/bin/clang++   -std=gnu++20 -o CMakeFiles/seq_diagram.dir/src/dir1/A.cpp.o -c /home/bartek/devel/clang-uml-issues/337/test/src/dir1/A.cpp",
+  "file": "/home/bartek/devel/clang-uml-issues/337/test/src/dir1/A.cpp",
+  "output": "CMakeFiles/seq_diagram.dir/src/dir1/A.cpp.o"
+}
+]

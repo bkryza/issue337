@@ -1,0 +1,11 @@
+compilation_database_dir: debug
+diagrams:
+  sequence_diagram:
+    type: sequence
+    glob:
+      - src/dir1/A.cpp
+      - src/Main.cpp
+    using_namespace: ns
+    from:
+      - function: "main(int,const char **)"
+
